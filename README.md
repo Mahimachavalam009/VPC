@@ -6,7 +6,7 @@ Amazon VPC
 
 # What is a VPC?
 If we imagine your AWS Region as a country, a Virtual Private Cloud (VPC) is like your own private city inside that country.
-You can design neighborhoods (known as subnets, which you'll learn about in this project), traffic rules, and security measures to control how resources, like EC2 instances and databases, connect and work together.
+You can design neighborhoods (known as subnets), traffic rules, and security measures to control how resources, like EC2 instances and databases, connect and work together.
 
 # 3 steps
 ```
@@ -20,13 +20,13 @@ You can design neighborhoods (known as subnets, which you'll learn about in this
 ```
 
 ```
-1. Create a VPC
+1) Create a VPC
+1.1) Access the VPC console in AWS
+1.2)  In the AWS Management Console search field, type VPC.
+1.3) Select VPC from the drop down menu.
+1.4) In the left navigation pane, choose Your VPCs
 ```
 ```
-1. Access the VPC console in AWS
-1.1 In the AWS Management Console search field, type VPC.
-1.2 Select VPC from the drop down menu.
-1.3 In the left navigation pane, choose Your VPCs
 2. Create a VPC.
 ```
 # What's the point of having VPCs, why do they matter?
