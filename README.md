@@ -1,6 +1,6 @@
 # Work in Progess
-# VPC
-Virtual Private Cloud
+
+# Virtual Private Cloud
 Amazon VPC
 
 
@@ -11,11 +11,17 @@ You can design neighborhoods (known as subnets, which you'll learn about in this
 # 3 steps
 ```
 ☁️ Create an Amazon VPC.
+```
+```
 🥅 Create a public subnet.
+```
+```
 🚪 Create an internet gateway.
 ```
 
-#1. Create a VPC
+```
+1. Create a VPC
+```
 ```
 1. Access the VPC console in AWS
 1.1 In the AWS Management Console search field, type VPC.
