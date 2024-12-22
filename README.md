@@ -1,7 +1,7 @@
 # Work in Progess
 
 # Virtual Private Cloud
-Amazon VPC
+
 
 
 # What is a VPC?
