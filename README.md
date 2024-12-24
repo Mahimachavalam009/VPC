@@ -34,6 +34,9 @@ To put it simply - without VPCs, every AWS resource would exist in one giant, op
 
 Resources would be randomly scattered with no privacy or personal space, so everyone could see and access everyone else's resources .
 
+![image](https://github.com/user-attachments/assets/13a97bae-8b48-44f6-80fc-6d6c0b6d3ff8)
+
+
 VPCs are the reason why resources can be made private to you. You also get control over resources in a VPC, so you can organize how they communicate and integrate with each other without the public internet.
 
 p.s. if we're still a little unsure about the difference a VPC makes, here's another analogy that might help. Imagine if every file in Google Drive from any account was put into the same folder with no privacy or subfolders. You'd have to find your files amongst everything uploaded by everyone, which makes managing/securing your files really hard! That's what managing your resources would feel like without VPCs.
